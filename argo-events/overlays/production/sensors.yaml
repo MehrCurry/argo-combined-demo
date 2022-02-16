@@ -64,7 +64,7 @@ spec:
                       - name: repo_commit_id
                         value: ""
                       - name: container_image
-                        value: gzockoll/
+                        value: /
                       - name: container_tag
                         value: ""
                   - name: promote-staging
@@ -81,7 +81,7 @@ spec:
                       - name: repo_name
                         value: argo-combined-demo
                       - name: image_owner
-                        value: gzockoll
+                        value: 
                       - name: image_name
                         value: ""
                       - name: tag
@@ -102,7 +102,7 @@ spec:
                       - name: repo_name
                         value: argo-combined-demo
                       - name: image_owner
-                        value: gzockoll
+                        value: 
                       - name: image_name
                         value: ""
                       - name: tag
